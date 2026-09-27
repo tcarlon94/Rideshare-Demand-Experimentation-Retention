@@ -113,9 +113,9 @@ Potential complications include driver spillover between groups, seasonal demand
 
 | File | Description |
 |---|---|
-| [`Ulimate_challenge_logins.ipynb`](Ulimate_challenge_logins.ipynb) | Login-demand aggregation and exploratory analysis |
-| [`Ultimate Case Study - Part 2 Experiment Design.pdf`](Ultimate%20Case%20Study%20-%20Part%202%20Experiment%20Design.pdf) | Original toll-reimbursement experiment response |
-| [`Ultimate_case_predictive_modeling.ipynb`](Ultimate_case_predictive_modeling.ipynb) | Rider-retention analysis and classification modeling |
+| [`rideshare_demand_analysis.ipynb`](rideshare_demand_analysis.ipynb) | Login-demand aggregation and exploratory analysis |
+| [`rideshare_experiment_design.pdf`](rideshare_experiment_design.pdf) | Toll-reimbursement experiment response |
+| [`rider_retention_modeling.ipynb`](rider_retention_modeling.ipynb) | Rider-retention analysis and classification modeling |
 
 The source datasets are intentionally excluded. The notebooks retain the analytical outputs but require the original local data to rerun.
 
